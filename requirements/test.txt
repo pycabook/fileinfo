@@ -1,0 +1,5 @@
+-r dev.txt
+tox
+coverage
+pytest
+pytest-cov
